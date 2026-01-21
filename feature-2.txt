@@ -1,8 +1,12 @@
- this is feature two
+ 
+this is feature two
 
 
 this is new editing
 
 this is gadbad i did
 
-wanted to remove this gadbad 
+wanted to remove this gadbad
+
+ab hum rebasse learn kre hai 
+master branch p 
